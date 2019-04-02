@@ -2,6 +2,8 @@
 run vagrant up to install the vagrant box.
 basebox fscm/elasticsearch is used.
 
+esversion 5.5.2
+
 visit ES on http://10.0.0.11:9200 or on http://localhost:9200/
 
 ## Webinterface
